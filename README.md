@@ -17,7 +17,7 @@ Jarvis is a basic voice assistant built in Python. It listens for a wake word ("
 
 ---
 
-###For better voice recognition:
+### For better voice recognition:
 
 ```bash
 
