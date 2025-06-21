@@ -30,6 +30,12 @@ Install required packages using:
 ```bash
 pip install speechrecognition pyttsx3 gTTS pygame requests openai
 
+###For better voice recognition:
+
+```bash
+pip install pocketsphinx
+
+
 
 ## 🔐 API Keys Required
 
